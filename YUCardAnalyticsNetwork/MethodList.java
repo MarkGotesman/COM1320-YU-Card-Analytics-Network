@@ -47,7 +47,20 @@ public class AutoAccountAnalytics  {
 	*2. public void printAccountAnalytics();
 	*3. private void printSummary();
 	*4. private void printStatistics();
-	*5. private void printBudget();
+	*5. private void printBudget();	
+	//Summary
+	6. public int getCashRemaining();
+	7. public String[][] getLocationFrequencyAmountChart
+	8. public int getDaysRemaining();
+	//Statistics
+	9. public int getAverageDailySpending();
+	10. public Location getMostSpentLocation();
+	11. public localDate getMostSpentDay();
+	12. public localTime[] getMostSpentTime();
+	//Budget
+	13. public double getBudget();
+	14. public double getProjectedSpendingTotal();
+	15.
 	//NOTE: Make methods that present the analytics, e.g. getBudgetStatus() = {under, on, over}, also so that we can test it with test code. 
 }
 
