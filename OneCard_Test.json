@@ -1,0 +1,282 @@
+[
+ {
+  "DateTime": "04\/26\/2022 12:10:28 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/26\/2022 8:54:07 AM",
+  "Amount": "$ -2.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/26\/2022 8:05:19 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/25\/2022 7:53:24 PM",
+  "Amount": "$ -2.25",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/25\/2022 7:31:22 PM",
+  "Amount": "$ -10.55",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/25\/2022 7:31:22 PM",
+  "Amount": "$ -4.40",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/25\/2022 1:54:24 PM",
+  "Amount": "$ -3.75",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/25\/2022 1:07:29 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/25\/2022 8:55:00 AM",
+  "Amount": "$ -2.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/25\/2022 8:03:26 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/12\/2022 7:25:19 PM",
+  "Amount": "$ -14.75",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/12\/2022 1:18:29 PM",
+  "Amount": "$ -1.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/12\/2022 8:55:58 AM",
+  "Amount": "$ -6.99",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/12\/2022 8:06:40 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/11\/2022 6:37:51 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/11\/2022 12:12:57 PM",
+  "Amount": "$ -1.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/11\/2022 9:01:57 AM",
+  "Amount": "$ -3.10",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/11\/2022 8:04:06 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/10\/2022 10:50:53 PM",
+  "Amount": "$ -3.49",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/10\/2022 7:00:37 PM",
+  "Amount": "$ -12.75",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/10\/2022 8:53:24 AM",
+  "Amount": "$ -2.84",
+  "Location": "00022 : FURMAN OUTSIDE LINE 1"
+ },
+ {
+  "DateTime": "04\/07\/2022 10:18:07 PM",
+  "Amount": "$ -3.49",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/07\/2022 7:15:46 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/07\/2022 1:07:56 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/07\/2022 8:56:03 AM",
+  "Amount": "$ -2.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/07\/2022 8:04:25 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/06\/2022 10:20:48 PM",
+  "Amount": "$ -2.25",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/06\/2022 6:58:55 PM",
+  "Amount": "$ -2.25",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/06\/2022 6:44:14 PM",
+  "Amount": "$ -14.95",
+  "Location": "00027 : FURMAN INSIDE LINE 1"
+ },
+ {
+  "DateTime": "04\/06\/2022 12:17:32 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/06\/2022 8:59:02 AM",
+  "Amount": "$ -2.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/06\/2022 8:06:05 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/05\/2022 7:41:50 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/05\/2022 12:30:09 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/05\/2022 8:58:06 AM",
+  "Amount": "$ -2.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/05\/2022 8:07:05 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/04\/2022 7:17:27 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "04\/04\/2022 4:24:49 PM",
+  "Amount": "$ -1.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/04\/2022 2:34:37 PM",
+  "Amount": "$ -3.75",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/04\/2022 8:49:34 AM",
+  "Amount": "$ -5.84",
+  "Location": "00022 : FURMAN OUTSIDE LINE 1"
+ },
+ {
+  "DateTime": "04\/03\/2022 11:28:47 PM",
+  "Amount": "$ -15.00",
+  "Location": "00025 : WEB SERVER"
+ },
+ {
+  "DateTime": "04\/03\/2022 10:42:58 PM",
+  "Amount": "$ -1.79",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "04\/03\/2022 8:51:17 AM",
+  "Amount": "$ -5.84",
+  "Location": "00022 : FURMAN OUTSIDE LINE 1"
+ },
+ {
+  "DateTime": "03\/31\/2022 7:26:42 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "03\/31\/2022 12:57:45 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/31\/2022 8:45:27 AM",
+  "Amount": "$ -5.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/30\/2022 12:20:39 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/30\/2022 8:57:07 AM",
+  "Amount": "$ -2.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/30\/2022 8:08:48 AM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/29\/2022 7:23:59 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "03\/29\/2022 3:16:08 PM",
+  "Amount": "$ -3.75",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/29\/2022 12:21:32 PM",
+  "Amount": "$ -3.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/29\/2022 8:58:18 AM",
+  "Amount": "$ -5.84",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/28\/2022 7:25:18 PM",
+  "Amount": "$ -14.95",
+  "Location": "00028 : FURMAN INSIDE LINE 2"
+ },
+ {
+  "DateTime": "03\/28\/2022 12:29:46 PM",
+  "Amount": "$ -4.00",
+  "Location": "00024 : NAGEL BAGEL"
+ },
+ {
+  "DateTime": "03\/28\/2022 8:57:22 AM",
+  "Amount": "$ -5.84",
+  "Location": "00024 : NAGEL BAGEL"
+ }
+]
