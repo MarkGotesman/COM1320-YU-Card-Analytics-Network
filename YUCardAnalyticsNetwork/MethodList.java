@@ -1,5 +1,5 @@
 public class School {
-	*1. public School (String filePath);
+	1. public School (String filePath);
 	2. public enum Location(NAGEL_BAGEL, CAFETERIA, C_STORE, CHOP_CHOP, BURGER_N_GRILL, GRANDMAS, LAKE_COMO, GOLAN, TIBERIAS, KOSHER_IN_MIDTOWN);
 	3. public Calendar getCurrentSemesterCalendar();
 	4. public Calendar getSemesterCalendar (int year, Semester semester);
@@ -18,7 +18,7 @@ public class Calendar {
 
 public class Account {
 	1. public Account (int id, String email, int phone, double startingCash);
-	*2. public void insertPurchases(String filePath);
+	2. public void insertPurchases(String filePath);
 	3. public Set<Purchase> getAllPurchases();
 	4. public Set<Purchase> getPurchasesByDate(LocalDate startDate, LocalDate endDate);
 	5. public Set<Purchase> getPurchasesByTime(localTime startTime, localTime endTime);
@@ -44,10 +44,10 @@ public class Purchase {
 //Driver Class
 public class AutoAccountAnalytics  {
 	1. public static void main (String[] args);
-	*2. public void printAccountAnalytics();
-	*3. private void printSummary();
-	*4. private void printStatistics();
-	*5. private void printBudget();	
+	2. public void printAccountAnalytics();
+	3. private void printSummary();
+	4. private void printStatistics();
+	5. private void printBudget();	
 	//Summary
 	6. public int getCashRemaining();
 	7. public String[][] getLocationFrequencyAmountChart
@@ -58,9 +58,10 @@ public class AutoAccountAnalytics  {
 	11. public localDate getMostSpentDay();
 	12. public localTime[] getMostSpentTime();
 	//Budget
-	13. public double getBudget();
-	14. public double getProjectedSpendingTotal();
-	15.
+	13. public double getBudget(); //Daily spending average to reach 0 by the end of the semester
+	14. public double getProjectedSpendingTotal(); //Total amount of money that will be sent at the rate of the account's current average spending (e.g., $2,222.17)
+	15. public int getOnBudget(); //Return 1 for over, 0 for on, and -1 for under
+
 	//NOTE: Make methods that present the analytics, e.g. getBudgetStatus() = {under, on, over}, also so that we can test it with test code. 
 }
 
