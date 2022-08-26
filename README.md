@@ -1,3 +1,8 @@
+# Overview
+This project was completed over a ~6 weeks of class. The goal was to expose students to the basic cycle of software developmet: design, model, and build. Our concept was to provide a better way for students at our college (Yeshiva University - YU) to track the spending of their meal plan, the money being loaded at the begining of the semester. Our system would send weekly summary emails and budgeting tips to keep students aware of their spending and on-track with the budget they would like to acheive, as well as inform parents of these behaviors so they can set spending accordingly. 
+
+What follows is the design document that we drafted, also available for download in the repo in Word format.
+
 # COM1320-Software_Engineering_Practice: Deisgn Document (Not Implemented)
 
 **YU OneCard Analytics Network (YU C.A.N.)**
