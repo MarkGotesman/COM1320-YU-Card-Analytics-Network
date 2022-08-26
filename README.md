@@ -3,7 +3,7 @@ This project was completed over a ~6 weeks of class. The goal was to expose stud
 
 What follows is the design document that we drafted, also available for download in the repo in Word format.
 
-# COM1320-Software_Engineering_Practice: Deisgn Document (Not Implemented)
+# COM1320-Software_Engineering_Practice: Deisgn Document
 
 **YU OneCard Analytics Network (YU C.A.N.)**
 
